@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Jordan Independence Day</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; text-align: center;">
+<header style="background-color: red; color: white; padding: 20px; font-size: 24px;">
+  Jordan Independence Day - May 25
+</header>
+<img src="jordanday.png" alt="Jordan Independence Day">
+<h2>History of Independence</h2>
+<p>Jordan gained its independence from British rule on May 25, 1946. Since then, the country has flourished under the leadership of its monarchs, embracing modernization while preserving its rich cultural heritage.</p>
+<p><img src="istiqlal.jpg" width="500px" height="350px"></p>
+<h2>National Celebrations</h2>
+<p>On this day, Jordanians celebrate with parades, cultural performances, and patriotic events. The streets are decorated with national flags, and people gather to honor their country’s achievements.</p>
+<p><img src="nat1.jpg" width="500px" height="350px"></p>
+<h2>Symbols of Independence</h2>
+<p>‎ ‎ ‎ The Jordanian flag, consisting of black, white, green, and red, symbolizes the country's Arab heritage and independence. The white seven-pointed star represents unity and the ideals of the Jordanian people.</p>
+<p><img src="flagmeaning.png" width="500px" height="350px"></p>
+<h2>Key Figures</h2>
+<p>King Abdullah I, the founder of modern Jordan, played a crucial role in securing independence. The Hashemite leadership has since guided the nation towards progress and stability.</p>
+
+<h2>Interesting Facts</h2>
+<ul style="text-align: left; margin: 0 auto; display: inline-block;">
+  <li>Jordan’s independence was officially recognized by the United Nations in 1946.</li>
+  <li>The national anthem of Jordan,<a href="https://www.youtube.com/watch?v=TsCDHP9a9Gs" target="_blank" style="color: green"><b>"AL-Salam AL-Malaki AL-Urduni"</b></a> is played during celebrations.</li>
+  <li>Fireworks and concerts are a major part of the Independence Day festivities.</li>
+  <li>The royal family actively participates in national events on this day.</li>
+</ul>
+
+</p>
+
+<footer style="background-color:black; color: white; padding: 10px; margin-top: 20px;">
+  &copy; 2025 Jordan Independence Day By <b>Hadi Bakeer</b>
+</footer>
+</body>
+</html>
